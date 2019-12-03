@@ -1,2 +1,0 @@
-hello world test shell
-date time 20191203

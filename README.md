@@ -1,2 +1,3 @@
 # sh-sdn
-this is test files
+一，openresrty
+#nginx使用upstream反向代理mysql.
